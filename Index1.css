@@ -1,0 +1,21 @@
+body{
+    background-color: #faf2e4;
+    margin: 0 15%;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 1px solid #3993bd;
+    margin-top:30px;
+}
+h2{
+    color: #3b1709;
+    font-size:1em;
+}
+.Bottomwhite{
+    background-color: rgb(255, 255, 255);
+}
